@@ -1,5 +1,5 @@
 
-from astra_model_lab import evaluate_exact_match
+from astracompass import evaluate_exact_match
 
 
 def test_exact_match_success():
